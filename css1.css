@@ -1,0 +1,41 @@
+html, body {
+  background-color: gray;
+  height: 100%;
+  width: 100%;
+  font-family: 'Roboto', sans-serif; 
+}
+.text-center{
+  border: 2px black solid;
+  margin-left:15% ;
+  margin-right: 15%;
+  color: rgb(15, 3, 73);
+  border-radius: 15PX;
+}
+.main-container{
+  border: 3px black solid;
+  margin-left: 30%;
+  margin-right: 30%;
+  border-radius: 25px;
+}
+
+.button{
+  width: 66px;
+  padding: 20px;
+  margin: 0 3px;
+  border: 2px solid black;
+  border-radius: 9px;
+  cursor: pointer;
+}
+
+.row{
+  margin: 8px 0;
+}
+.row input{
+  width: 291px;
+  font-size: 20px;
+    margin: 0;
+    padding: 10px 0px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
